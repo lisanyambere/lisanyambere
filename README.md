@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @lisanyambere
-- 👀 I’m interested in data in population and healthcare dynamics.
-- 🌱 I’m interested in spatial modelling of diseases and events using R
-- 💞️ I’m looking to collaborate on projects that focus on using data to improve healthcare through accessibility and policies.
-- 📫 How to reach me: nyamberekimeu@outlook.com
+- 👀 I’m interested in leveraging data to make informed decisions and strategies through analysis and employing machine learning techniques. Very keen on AI developments and how to leverage it in my career.
+- 📫 How to reach me: nyamberekimeu@gmail.com
 
 <!---
 lisanyambere/lisanyambere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
