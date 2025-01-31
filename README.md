@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @lisanyambere
-- 👀 I’m interested in leveraging data to make informed decisions and strategies through analysis and employing machine learning techniques. Very keen on AI developments and how to leverage it in my career.
+- 👀 Building ML/AI applications
+- Talking about RAG, agentic systems and AI infrastructure
 - 📫 How to reach me: nyamberekimeu@gmail.com
 
 <!---
